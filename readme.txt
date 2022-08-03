@@ -14,3 +14,6 @@ To run the Electric Fields app, follow the instructions:
 
 7 - The unity project should now be available in Unity Hub and can be opened.
 
+8 - If opening the project gives a "Failed to load window layout" error, you will need to open the project files. From Unity Hub, if you press the 3 dots >> "Show in Explorer" >> Project >> Library. You will have to delete the existing CurrentLayout-default.dwlt file and replace it with the one from the repo.
+
+9 - You should now be able to run the project.
